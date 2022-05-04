@@ -1,0 +1,2 @@
+# discord-bot
+discordのslash CommandからNotionへの議事録作成,google Calendarへの会議追加,discordのリマインダー設定
